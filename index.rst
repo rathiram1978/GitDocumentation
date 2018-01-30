@@ -8,6 +8,7 @@ Welcome to Coding Documentation's documentation!
 Welcome to the introduction to *coding* and *documentation*!
 This is going to be a demo on seamless integration with git using ``Sphinx`` and ``python``
 **Lets play around**
+Want to see if this change is showing up in readthedocs
 
 
 .. toctree::
